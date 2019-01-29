@@ -1,0 +1,14 @@
+{
+    "name": "htl3r/doctrine-demo5ai",
+    "description": "Short demo for doctrine dbal",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Florian Weiss",
+            "email": "github@weissheiten.at"
+        }
+    ],
+    "require": {
+        "doctrine/dbal": "^2.9"
+    }
+}

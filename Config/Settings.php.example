@@ -1,0 +1,8 @@
+<?php
+$connectionParams = array(
+    'dbname' => '--- DBNAME ---',
+    'user' => '--- USER ---',
+    'password' => '--- PASSWORD ---',
+    'host' => '--- HOST ---',
+    'driver' => 'pdo_mysql',
+);
